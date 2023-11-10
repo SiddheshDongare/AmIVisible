@@ -19,17 +19,17 @@
 ---
 
 ##  Table of Contents
-- [ Table of Contents](#-table-of-contents)
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
+- [ Table of Contents](#table-of-contents)
+- [ Overview](#overview)
+- [ Features](#features)
+- [ Repository Structure](#repository-structure)
 - [ Modules](#modules)
-- [ Getting Started](#-getting-started)
-    - [ Installation](#-installation)
-    - [ Running AmIVisible](#-running-AmIVisible)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
+- [ Getting Started](#getting-started)
+    - [ Installation](#installation)
+    - [ Running AmIVisible](#running-AmIVisible)
+- [ Contributing](#contributing)
+- [ License](#license)
+- [ Acknowledgments](#acknowledgments)
 
 ---
 
