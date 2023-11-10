@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-![logo](https://github.com/SiddheshDongare/AmIVisible/assets/70208548/12b0d5e5-352c-4171-ba58-d108405fdc94)
+<a href="https://ibb.co/GxrqJ1B"><img src="https://i.ibb.co/98d7vfz/logo.png" alt="logo" border="0"></a>
 <br>AmIVisible</h1>
 
 <h3>◦ Be Connectable, Be Reachable</h3>
