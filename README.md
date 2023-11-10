@@ -180,11 +180,11 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ## Screenshots
 
-![Homepage Port Screenshot](https://i.ibb.co/z8X2K3w/homepage.png)
+![Homepage Screenshot](https://raw.githubusercontent.com/SiddheshDongare/AmIVisible/main/static/assets/images/screenshots/homepage.png)
 
-![Open Port Screenshot](https://i.ibb.co/T1Fdq33/open.png)
+![Open Port Screenshot](https://raw.githubusercontent.com/SiddheshDongare/AmIVisible/main/static/assets/images/screenshots/open.png)
 
-![Close Screenshot](https://i.ibb.co/qMYcMTD/closed.png)
+![Closed Port Screenshot](https://raw.githubusercontent.com/SiddheshDongare/AmIVisible/main/static/assets/images/screenshots/closed.png)
 
 ---
 
