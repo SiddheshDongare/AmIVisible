@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/SiddheshDongare/AmIVisible/main/static/assets/images/logo.png" width="100" />
+<img src="https://raw.githubusercontent.com/SiddheshDongare/AmIVisible/main/static/assets/images/logo.png" width="250" />
 <br>AmIVisible</h1>
 
 <h3>◦ Be Connectable, Be Reachable</h3>
