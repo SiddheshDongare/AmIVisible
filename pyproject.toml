@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "amivisible"
+version = "0.1.0"
+description = "The application is designed to offer a user-friendly interface where users can enter an IP address and specify a port number for checking. It provides a dropdown menu with common port numbers and an input field for custom port numbers. The application then displays the results indicating the status of the specified port on the provided IP address."
+authors = ["SiddheshDongare <siddheshdongare43@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

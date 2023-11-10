@@ -18,15 +18,6 @@ def is_port_open(ip, port):
         sock.close()
 
 
-@app.errorhandler(Exception)
-def handle_exception(e):
-    # pass through HTTP errors
-    if isinstance(e, HTTPException):
-        return e
-    # now you're handling non-HTTP exceptions only
-    return render_template("500_generic.html", e=e), 500
-
-
 @app.route('/', methods=['GET', 'POST'])
 def index():
     result = None
@@ -48,5 +39,14 @@ def index():
     return render_template('index.html', result=result, ip=ip, port=port)
 
 
+@app.errorhandler(Exception)
+def handle_exception(e):
+    # pass through HTTP errors
+    if isinstance(e, HTTPException):
+        return e
+    # now you're handling non-HTTP exceptions only
+    return render_template("500_generic.html", e=e), 500
+
+
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
