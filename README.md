@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">
-<img src="(https://i.ibb.co/98d7vfz/logo.png)" width="100" />
+![logo](https://github.com/SiddheshDongare/AmIVisible/assets/70208548/12b0d5e5-352c-4171-ba58-d108405fdc94)
 <br>AmIVisible</h1>
+
 <h3>◦ Be Connectable, Be Reachable</h3>
 <h3>◦ Developed with the software and tools below.</h3>
 
