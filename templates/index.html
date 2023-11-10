@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="container">
+    <h1 class="title">Port Checker</h1>
+    <form action="/" id="portCheckForm" method="post">
+        <div class="form-group">
+            <label for="ip">IP Address:</label>
+            <input class="input-field" id="ip" name="ip" required type="text" placeholder="IP Address" value="{{ ip }}">
+        </div>
+        <div class="form-group">
+            <label for="port">Select a Port:</label>
+            <select class="input-field" id="portDropdown" name="portDropdown" onchange="updatePortInput()">
+                <option value="">-- Choose or enter a PORT --</option>
+                <option value="21">FTP</option>
+                <option value="22">SSH</option>
+                <option value="25">SMTP</option>
+                <option value="53">DNS</option>
+                <option value="80">HTTP</option>
+                <option value="110">POP3</option>
+                <option value="143">IMAP</option>
+                <option value="194">IRC</option>
+                <option value="443">HTTPS</option>
+                <option value="445">SMTPS</option>
+                <option value="873">RSYNC</option>
+                <option value="3306">MySQL</option>
+                <option value="3389">RDP</option>
+                <option value="5900">VNC</option>
+                <option value="6379">Redis</option>
+                <option value="25565">Minecraft</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="port">Enter a Port:</label>
+            <input class="input-field" id="port" name="port" required type="text" placeholder="Port Number" value="{{ port }}">
+        </div>
+        <input class="submit-btn" type="submit" value="Check Port">
+    </form>
+    <div id="result">
+        {% if result is not none %}
+        <h2 class="result-text {{ 'open' if result else 'closed' }}">{{ 'Port is Open' if result else 'Port is Closed' }}</h2>
+        {% endif %}
+    </div>
+</div>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
