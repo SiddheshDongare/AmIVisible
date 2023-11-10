@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-<a href="https://ibb.co/GxrqJ1B"><img src="https://i.ibb.co/98d7vfz/logo.png" alt="logo" border="0"></a>
+<a href="https://ibb.co/GxrqJ1B"><img src="https://i.ibb.co/98d7vfz/logo.png" alt="logo" border="0" height="150"></a>
 <br>AmIVisible</h1>
 
 <h3>◦ Be Connectable, Be Reachable</h3>
