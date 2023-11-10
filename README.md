@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-<img src="(https://raw.githubusercontent.com/SiddheshDongare/AmIVisible/main/static/assets/images/logo.png)" width="100" />
+<img src="(https://i.ibb.co/98d7vfz/logo.png)" width="100" />
 <br>AmIVisible</h1>
 <h3>◦ Be Connectable, Be Reachable</h3>
 <h3>◦ Developed with the software and tools below.</h3>
@@ -180,11 +180,11 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ## Screenshots
 
-![Homepage Screenshot](https://raw.githubusercontent.com/SiddheshDongare/AmIVisible/main/static/assets/images/screenshots/homepage.png)
+![Homepage Port Screenshot](https://i.ibb.co/z8X2K3w/homepage.png)
 
-![Open Port Screenshot](https://raw.githubusercontent.com/SiddheshDongare/AmIVisible/main/static/assets/images/screenshots/open.png)
+![Open Port Screenshot](https://i.ibb.co/T1Fdq33/open.png)
 
-![Closed Port Screenshot](https://raw.githubusercontent.com/SiddheshDongare/AmIVisible/main/static/assets/images/screenshots/closed.png)
+![Close Screenshot](https://i.ibb.co/qMYcMTD/closed.png)
 
 ---
 
